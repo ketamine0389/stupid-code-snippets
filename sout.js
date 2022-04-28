@@ -18,3 +18,4 @@ for (var i = 0; i < 44; i++) {
 }
 
 System.out.println(timesHit + ' <- times hit');
+ 
